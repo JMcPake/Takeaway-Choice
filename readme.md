@@ -23,7 +23,3 @@ This will open a window displaying the bar chart of probabilities. After 10 iter
 ## Configuration
 
 You can modify the options and colors used in the simulation by editing the `takeaway_options` and `colors` variables at the top of the script.
-
-## License
-
-This code is released under the MIT License. See the [LICENSE](LICENSE) file for
